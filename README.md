@@ -1,4 +1,4 @@
-### ''Evoluindo sem pressa e sem pausa!'' 
+### ''Evoluindo! Sem pressa e sem pausa!'' 
       ⚜️ Seja bem vindo(a) ao meu perfil ⚜️
 
 ##
