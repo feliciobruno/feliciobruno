@@ -1,5 +1,10 @@
 ### ''Evoluindo, sem pressa e sem pausa!'' 
       ⚜️ Seja bem vindo(a) ao meu perfil ⚜️
+ 
+ <body>
+          <h1 align="center"><img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif" width="28"></h1>
+      </body>
+  
 
 ##
 
