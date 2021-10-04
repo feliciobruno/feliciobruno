@@ -3,10 +3,9 @@
  
  <body>
           <h1 align="center"><img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif" width="28"></h1>
-      </body>
-  
+      </body> 
 
-##
+#
 
 <div style="display: inline_block"><br>
       <img align="center" alt="bruno-Python" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
