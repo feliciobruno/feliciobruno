@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
       <h1>''Evoluindo, sem pressa e sem pausa!'' </h1>
       </head>
