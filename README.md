@@ -2,12 +2,7 @@
 <head>
       <h1>''Evoluindo, sem pressa e sem pausa!'' </h1>
       </head>
-      
       ⚜️ Seja bem vindo(a) ao meu perfil ⚜️
- 
- <body>
-          <h3><img src="https://media.giphy.com/media/VDNDX5BhKKz0YsJkl0/giphy.gif" width="28"></h3>
-      </body> 
 
 #
 
