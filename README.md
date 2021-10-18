@@ -2,7 +2,7 @@
 <head>
       <h1>''Evoluindo, sem pressa e sem pausa!'' </h1>
       </head>
-      ⚜️ Seja bem vindo(a) ao meu perfil ⚜️
+                     ⚜️ Seja bem vindo(a) ao meu perfil ⚜️
 
 #
 
