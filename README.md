@@ -2,7 +2,10 @@
 <head>
       <h1>''Evoluindo, sem pressa e sem pausa!'' </h1>
       </head>
-                     ⚜️ Seja bem vindo(a) ao meu perfil ⚜️
+      <body>
+            <center>
+                  ⚜️ Seja bem vindo(a) ao meu perfil ⚜️
+            </center>
 
 #
 
@@ -18,6 +21,7 @@
   <a href="https://www.linkedin.com/in/obrunofelicio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
       
   </div>
+      </body>
   
   
    
